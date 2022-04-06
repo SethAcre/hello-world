@@ -1,2 +1,1 @@
-Added line
-Another.
+This is a git-it exercise.
